@@ -23,16 +23,16 @@
 
 #### How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 <p>
-    I made sure my code was functional 
+    I made sure my code was functional by detecting and addressing issues early in the development process. This process is important because addressing issues promptly can prevent them from escalating into more significant problems that could impact the user experience. Early bug detection and resolution also helps to maintain the app's reputation and avoid negative feedback from users. Additionally, fixing bugs early can save time and resources in the long run, as it prevents the need for extensive rework later in the development cycle.
 </p>
 
 #### Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 <p>
-    
+    Throughout the development of the event tracker app, I faced the challenge of balancing feature richness with user experience. While I aimed to provide a comprehensive set of features, I also prioritized an intuitive and user-friendly design. 
 </p>
     
 #### In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 <p>
-    
+    I am particularly proud of the event creation functionality within the event tracker app. This component required careful consideration of user needs, effective data management, and a seamless user experience. I successfully implemented a user-friendly interface that allowed users to easily input and edit event details. My ability to design and implement this crucial component demonstrates my knowledge of user-centered design, effective data handling, and attention to detail.
 </p>
 
