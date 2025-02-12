@@ -1,4 +1,4 @@
-# SNHU CS360: Mobile Architecture & Programming
+# SNHU CS360: Mobile Architecture & Programming Journal
 
 
 #### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
